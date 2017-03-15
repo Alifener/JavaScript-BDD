@@ -1,0 +1,15 @@
+{
+  "name": "GitHubJs",
+  "version": "0.0.1",
+  "description": "GitHubJs",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Alifener/PhotoBox.git"
+  },
+  "devDependencies": {
+    "cucumber": "^0.10.2",
+    "selenium-webdriver": "^2.53.2",
+    "chai": "^3.5.0",
+    "request": "2.81.0"
+  }
+}
