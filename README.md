@@ -2,12 +2,14 @@
 
 Prerequisite:
 
-npm
-Chrome Installed
-Chromedriver executable available on your path($PATH)
+1.  npm installed
 
-Verify chromedriver is working by opening a terminal and typing 'chromedriver'. 
-export PATH=$PATH:{chromedriver_path}:.
+2.  Chrome Installed
+
+3.  Chromedriver executable available on your path($PATH)
+
+    Verify chromedriver is working by opening a terminal and typing 'chromedriver'. 
+    export PATH=$PATH:{chromedriver_path}:.
 
 You should see:
 
@@ -18,9 +20,9 @@ You should see:
 
 If all seems OK, Ctrl+C to get rid of that, and carry on:
 
-    git clone git@github.com:Alifener/PhotoBox.git
-    cd PhotoBox
-    npm install cucumber
+    git clone git@github.com:Alifener/PhotoBoxJS.git
+    cd PhotoBoxJS
+    npm install
     
 To run the tests:  
 
